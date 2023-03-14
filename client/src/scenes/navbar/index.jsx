@@ -59,7 +59,7 @@ const Navbar = () => {
             },
           }}
         >
-          Sociopedia
+          Moritzpedia
         </Typography>
         {isNonMobileScreens && (
           <FlexBetween
